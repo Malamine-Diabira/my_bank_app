@@ -1,7 +1,3 @@
-Voici une description README claire et concise que vous pouvez utiliser pour votre projet sur GitHub. Elle résume les objectifs, l'architecture et les instructions de base pour démarrer le projet :
-
----
-
 # Gestion d'une Banque avec une Architecture Microservices
 
 Ce projet est une implémentation d'un système de gestion bancaire basé sur une **architecture orientée microservices**. Il utilise **Spring Boot** pour le backend et **Angular** pour le frontend, offrant une solution modulaire et scalable pour gérer les opérations bancaires.
